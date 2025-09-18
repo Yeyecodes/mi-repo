@@ -1,0 +1,21 @@
+# Archivos y configuraciones de usuario de Linux/Ubuntu
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.lesshst
+.wget-hsts
+.sudo_as_admin_successful
+.gitconfig
+
+
+# Carpetas de configuración y caché
+.cache/
+.config/
+.vscode-server/
+.dotnet/
+.kube/
+.ssh/
+# Carpeta temporal o de pruebas
+linux_bash/
+
